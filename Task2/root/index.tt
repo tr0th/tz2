@@ -1,0 +1,5 @@
+<h1>Data about my cat:</h1>
+<h2>It's name is: [% nme %]</h2>
+<h2>It's gender is: [% gender %]</h2>
+<h2>It says: [% sound %]</h2>
+<h2>It is [% eat %]</h2>
